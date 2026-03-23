@@ -169,19 +169,6 @@ UK-Retail-Customer-Segmentation/
 
 ---
 
-## 📸 Dashboard Screenshots
-
-### Page 1 — Executive Summary
-![Executive Summary](https://raw.githubusercontent.com/Priti-subudhi/UK-Retail-Customer-Segmentation/main/UK%20Retail%20-%20executive%20summary.png)
-
-### Page 2 — Sales Analysis
-![Sales Analysis](https://raw.githubusercontent.com/Priti-subudhi/UK-Retail-Customer-Segmentation/main/UK%20Retail%20-%20Sales%20Analysis.png)
-
-### Page 3 — Customer Segments
-![Customer Segments](https://raw.githubusercontent.com/Priti-subudhi/UK-Retail-Customer-Segmentation/main/UK%20Retail%20-%20Customer%20segments.png)
-
-### Page 4 — Geographic Analysis
-![Geographic Analysis](https://raw.githubusercontent.com/Priti-subudhi/UK-Retail-Customer-Segmentation/main/UK%20Retail%20-%20Geographic%20analysis.png)
 
 ---
 
