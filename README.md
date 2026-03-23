@@ -116,6 +116,20 @@ This project performs a complete end-to-end customer segmentation analysis on a 
 
 ---
 
+## 📸 Dashboard Screenshots
+
+### Page 1 — Executive Summary
+![Executive Summary](UK%20Retail%20-%20executive%20summary.png)
+
+### Page 2 — Sales Analysis
+![Sales Analysis](UK%20Retail%20-%20Sales%20Analysis.png)
+
+### Page 3 — Customer Segments
+![Customer Segments](UK%20Retail%20-%20Customer%20segments.png)
+
+### Page 4 — Geographic Analysis
+![Geographic Analysis](UK%20Retail%20-%20Geographic%20analysis.png)
+
 ## 🗃️ Repository Structure
 
 ```
@@ -152,6 +166,22 @@ UK-Retail-Customer-Segmentation/
 **P. Priti Subudhi**
 - 📧 Email: Priti2003subudhi@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/p-priti-subudhi-95731a308](https://linkedin.com/in/p-priti-subudhi-95731a308)
+
+---
+
+## 📸 Dashboard Screenshots
+
+### Page 1 — Executive Summary
+![Executive Summary](https://raw.githubusercontent.com/Priti-subudhi/UK-Retail-Customer-Segmentation/main/UK%20Retail%20-%20executive%20summary.png)
+
+### Page 2 — Sales Analysis
+![Sales Analysis](https://raw.githubusercontent.com/Priti-subudhi/UK-Retail-Customer-Segmentation/main/UK%20Retail%20-%20Sales%20Analysis.png)
+
+### Page 3 — Customer Segments
+![Customer Segments](https://raw.githubusercontent.com/Priti-subudhi/UK-Retail-Customer-Segmentation/main/UK%20Retail%20-%20Customer%20segments.png)
+
+### Page 4 — Geographic Analysis
+![Geographic Analysis](https://raw.githubusercontent.com/Priti-subudhi/UK-Retail-Customer-Segmentation/main/UK%20Retail%20-%20Geographic%20analysis.png)
 
 ---
 
